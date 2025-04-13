@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<insects>
+  <habitat name="Tropical">
+    <insect insectId="T001">
+      <commonName>Țânțar tigru</commonName>
+      <scientificName>Aedes albopictus</scientificName>
+      <dangerLevel>High</dangerLevel>
+      <characteristics>
+        <characteristic>Transmite boli</characteristic>
+        <characteristic>Activ ziua</characteristic>
+        <characteristic>Rezistent</characteristic>
+      </characteristics>
+      <legs>6</legs>
+    </insect>
+    <insect insectId="T002">
+      <commonName>Gândac rinocer</commonName>
+      <scientificName>Oryctes nasicornis</scientificName>
+      <dangerLevel>Low</dangerLevel>
+      <characteristics>
+        <characteristic>Foarte puternic</characteristic>
+        <characteristic>Trăiește în lemn putrezit</characteristic>
+      </characteristics>
+      <legs>6</legs>
+    </insect>
+  </habitat>
+  <habitat name="Temperat">
+    <insect insectId="TMP001">
+      <commonName>Albina europeană</commonName>
+      <scientificName>Apis mellifera</scientificName>
+      <dangerLevel>Medium</dangerLevel>
+      <characteristics>
+        <characteristic>Polenizează plante</characteristic>
+        <characteristic>Produce miere</characteristic>
+        <characteristic>Trăiește în colonii</characteristic>
+      </characteristics>
+      <legs>6</legs>
+    </insect>
+    <insect insectId="TMP002">
+      <commonName>Gândac de scoarță</commonName>
+      <scientificName>Dendroctonus ponderosae</scientificName>
+      <dangerLevel>High</dangerLevel>
+      <characteristics>
+        <characteristic>Atacă copaci coniferi</characteristic>
+        <characteristic>Cauzează distrugeri în păduri</characteristic>
+      </characteristics>
+      <legs>6</legs>
+    </insect>
+  </habitat>
+  <habitat name="Desertic">
+    <insect insectId="D001">
+      <commonName>Lăcustă de deșert</commonName>
+      <scientificName>Schistocerca gregaria</scientificName>
+      <dangerLevel>High</dangerLevel>
+      <characteristics>
+        <characteristic>Formează roiuri</characteristic>
+        <characteristic>Distruge culturi</characteristic>
+      </characteristics>
+      <legs>6</legs>
+    </insect>
+  </habitat>
+</insects>

@@ -1,0 +1,54 @@
+{
+  "insects": [
+    {
+      "habitatName": "Tropical",
+      "habitatId": "1",
+      "species": [
+        {
+          "insectId": "T001",
+          "commonName": "Țânțar tigru",
+          "scientificName": "Aedes albopictus",
+          "discovered": "2004",
+          "dangerLevel": "High",
+          "characteristics": [
+            "Transmitere virus Dengue",
+            "Activ ziua",
+            "Agresiv"
+          ],
+          "legs": 6
+        },
+        {
+          "insectId": "T002",
+          "commonName": "Gândac tropical",
+          "scientificName": "Blaberus giganteus",
+          "discovered": "1995",
+          "dangerLevel": "Low",
+          "characteristics": [
+            "Foarte mare",
+            "Zgomotos",
+            "Inofensiv"
+          ],
+          "legs": 6
+        }
+      ]
+    },
+    {
+      "habitatName": "Desert",
+      "habitatId": "2",
+      "species": [
+        {
+          "insectId": "D001",
+          "commonName": "Lăcustă de deșert",
+          "scientificName": "Schistocerca gregaria",
+          "discovered": "1978",
+          "dangerLevel": "High",
+          "characteristics": [
+            "Formează roiuri",
+            "Distruge culturi"
+          ],
+          "legs": 6
+        }
+      ]
+    }
+  ]
+}

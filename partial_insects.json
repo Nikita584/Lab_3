@@ -1,0 +1,15 @@
+{
+  "insects" : [ {
+    "habitatName" : "Aquatic",
+    "habitatId" : "3",
+    "species" : [ {
+      "insectId" : "A001",
+      "commonName" : "Gândacul de apă",
+      "scientificName" : "Belostomatidae",
+      "discovered" : "2001",
+      "dangerLevel" : "Medium",
+      "characteristics" : [ "Prinde pești", "Respiră prin sifon" ],
+      "legs" : 6
+    } ]
+  } ]
+}
